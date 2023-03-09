@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amanpal108 curently working @Beezhive & @omotrip as CTO, @blinsofttechnologies as CEO
+- 👋 Hi, I’m @amanpal108 curently working @Beezhive-India & @Omotrip as CTO, @Blinsoft-Technologies as CEO
 - 👀 I’m interested in building extraordinary apps & systems to solve real-world problems at large scale.
 - 🌱 I’m currently learning Devops & Backend Technologies.
 - 💞️ I’m looking to collaborate on Open Source Projects.
