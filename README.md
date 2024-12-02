@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amanpal108 curently working @Ginee-Tech as Chief Everything Officer & Prev worked @Omotrip as CTO, @Beezhive @Blinsoft-Technologies as CEO
+- 👋 Hi, I’m @amanpal108 curently working @Spark-Love as CTO & Prev worked @Omotrip as CTO, @Beezhive @Blinsoft-Technologies as CEO
 - 👀 I’m interested in building extraordinary apps & systems to solve real-world problems at a large scale.
 - 🌱 I’m currently learning Devops & Backend Technologies.
 - 💞️ I’m looking to collaborate on Open Source Projects.
